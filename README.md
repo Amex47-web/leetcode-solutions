@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/Amex47-web/leetcode-solutions/tree/master/0038-count-and-say) |
 | [0567-permutation-in-string](https://github.com/Amex47-web/leetcode-solutions/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
